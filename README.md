@@ -1,3 +1,7 @@
+
+https://github.com/sumanthpalliboina/TableViewWithNavigationController/assets/85536329/f835a60a-f2e1-417f-8665-491dd43910c7
+
+
 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-24 at 14 40 16](https://github.com/sumanthpalliboina/TableViewWithNavigationController/assets/85536329/fee71e13-fd04-4a84-b449-48c3b2d91de1)![Simulator Screenshot - iPhone 15 Pro - 2024-04-23 at 11 02 14](https://github.com/sumanthpalliboina/TableViewWithNavigationController/assets/85536329/026a728a-faaa-4617-965c-e1d859b893e5)
 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-23 at 11 02 24](https://github.com/sumanthpalliboina/TableViewWithNavigationController/assets/85536329/02864147-7645-4f48-9d5f-3c311ecb1578)
 <img width="1680" alt="Screenshot 2024-04-23 at 11 03 49 AM" src="https://github.com/sumanthpalliboina/TableViewWithNavigationController/assets/85536329/ad6af934-6283-4dd5-8553-fb6cba803138">
