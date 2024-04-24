@@ -1,3 +1,4 @@
+<img width="1680" alt="Screenshot 2024-04-24 at 5 22 05 PM" src="https://github.com/sumanthpalliboina/TableViewWithNavigationController/assets/85536329/4700f2f1-0310-4c5a-bbbb-918893017a88">
 
 https://github.com/sumanthpalliboina/TableViewWithNavigationController/assets/85536329/f835a60a-f2e1-417f-8665-491dd43910c7
 
